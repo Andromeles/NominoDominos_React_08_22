@@ -1,0 +1,21 @@
+.test {
+  background-color: lightgray;
+  text-align: center;
+}
+
+.test .h2 {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.test .p {
+  font-size: 16px;
+  color: red;
+  font-style: oblique;
+}
+
+.noneClass {
+  display: block;
+  text-align: left;
+}
+/*# sourceMappingURL=Message.module.css.map */
